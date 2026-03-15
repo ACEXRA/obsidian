@@ -8,31 +8,31 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "tag:#To-do  ",
+      "query": "In-Progress",
       "color": {
         "a": 1,
-        "rgb": 15140872
+        "rgb": 14701138
       }
     },
     {
-      "query": "tag:#In-progress",
+      "query": "Done",
       "color": {
         "a": 1,
-        "rgb": 15916807
-      }
-    },
-    {
-      "query": "tag:#done",
-      "color": {
-        "a": 1,
-        "rgb": 5627915
+        "rgb": 4908095
       }
     },
     {
       "query": "path:3.Tags  ",
       "color": {
         "a": 1,
-        "rgb": 16087301
+        "rgb": 4276181
+      }
+    },
+    {
+      "query": "path:4.Indexes  ",
+      "color": {
+        "a": 1,
+        "rgb": 15528940
       }
     }
   ],
